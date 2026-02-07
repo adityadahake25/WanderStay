@@ -1,5 +1,4 @@
 # WanderStay
-## Travel & Accommodation Listing Website 
 WanderStay is a full-stack web application that allows users to list, review, and manage travel accommodations.
 
 ## Features
