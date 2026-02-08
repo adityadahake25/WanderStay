@@ -32,11 +32,15 @@ WonderStay is designed to simulate a real-world travel and accommodation platfor
 
 ## Screenshots
 
-<img src="./screenshots/backend-code.png" width="600" />
-<img src="./screenshots/home-listings.png" width="600" />
-<img src="./screenshots/create-listing.png" width="600" />
-<img src="./screenshots/listing-details.png" width="600" />
-<img src="./screenshots/map-location.png" width="600" />
+![Backend Code](./screenshots/backend-code.png)
+
+![Home Listings](./screenshots/home-listings.png)
+
+![Create Listing](./screenshots/create-listing.png)
+
+![Listing Details](./screenshots/listing-details.png)
+
+![Map Location](./screenshots/map-location.png)
 
 ---
 
