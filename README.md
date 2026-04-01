@@ -2,7 +2,7 @@
 
 WonderStay is a full-stack travel website inspired by Airbnb, developed using Node.js, Express.js, MongoDB, and MVC architecture. The platform allows users to explore, create, and manage property listings with interactive location mapping and secure backend operations.
 
----
+-----
 
 ## Project Overview
 WonderStay is designed to simulate a real-world travel and accommodation platform. It provides users with the ability to browse travel listings, view property locations on maps, and perform CRUD operations securely. The application follows MVC architecture for clean code organization and scalability.
